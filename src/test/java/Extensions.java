@@ -4,7 +4,7 @@ public class Extensions {
     private static String line;
 
 @Test
-    public void Text(){
+    public void text(){
         System.out.println("Summer");
        try{
            this.line.contains("Привет");
